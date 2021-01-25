@@ -5,26 +5,11 @@
 
 This app was created for a sample AppsFlyer SDK integration. 
 
-For more information, check out: https://support.appsflyer.com/hc/en-us/articles/208386173
+For more information, check out: https://support.appsflyer.com/hc/en-us/articles/207032126-Android-SDK-integration-for-developers#integration-2-add-the-sdk-to-your-app
 
 Please submit any questions or comments to support@appsflyer.com
 
 <hr>
 
-## How to Integrate the AppsFlyer SDK
 
-### 1) Add the SDK to your Project in ../app/build.gradle
-
-<img src="/ScreenShots/GradleScreenShot.png/">
-
-### 2) Set the Required Permissions and BroadcastReceiver in AndroidManifest.xml
-
-<img src="/ScreenShots/AndroidManifestScreenShot.png/">
-
-### 3) SDK Initialization
-
-<img src="/ScreenShots/AFApplicationScreenShot.png/">
-
-### 4) Tracking In-App Events
-<img src="/ScreenShots/EventScreenShot.png/">
 
